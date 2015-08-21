@@ -1,8 +1,8 @@
 ---
-published: true
-title: Hello world
+published: false
+title: De-cluttering my life - The begining
 layout: post
 ---
-This is a test post for my new blog. The blog is hosted on [Github Pages](http://pages.github.com/) which means the source is available at [github.com/bineetgh/bineetgh.github.io](http://github.com/bineetgh/bineetgh.github.io). Be nice. Give credit. Share, don't steal :)
+33 things to do as I start making my life simpler. I am going to list down things that will help declutter my life, 33 things to start with. I will add them as and when I know what can make my life simpler or make me happy.
 
-By the way, this blog is powered by [tinypress.co](https://tinypress.co).
+1. Write one post per week
